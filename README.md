@@ -4,7 +4,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Acerca de mí
 
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
 🎓 &nbsp;Actualmente estoy estudiando Ciencias de la Computación y Matemáticas en la Universidad de Massachusetts Amherst.\
@@ -12,7 +12,6 @@
 ✍️ &nbsp;En mi tiempo libre, me dedico al diseño gráfico y a la redacción de blogs como pasatiempos y actividades secundarias.\
 💬 &nbsp;No dude en comunicarse conmigo para realizar consultoría y voluntariado pro bono, o simplemente para tener una discusión interesante..\
 ✉️ &nbsp;¡Puedes enviarme un correo electrónico a avsingh@umass.edu! Intentaré responder tan pronto como pueda.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
