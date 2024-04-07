@@ -11,7 +11,7 @@
 🌱 &nbsp;Estoy en camino de aprender más sobre Inteligencia Artificial, Diseño de Sistemas y Arquitectura de Nube.\
 ✍️ &nbsp;En mi tiempo libre, me dedico al diseño gráfico y a la redacción de blogs como pasatiempos y actividades secundarias.\
 💬 &nbsp;No dude en comunicarse conmigo para realizar consultoría y voluntariado pro bono, o simplemente para tener una discusión interesante..\
-✉️ &nbsp;¡Puedes enviarme un correo electrónico a avsingh@umass.edu! Intentaré responder tan pronto como pueda.\
+✉️ &nbsp;¡Puedes enviarme un correo electrónico a axlcamaco@upeu.edu.pe! Intentaré responder tan pronto como pueda.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
