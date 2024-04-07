@@ -38,7 +38,7 @@
 
 - 📫 No dudes en comunicarte conmigo:axlcamaco@upeu.edu.pe.
 
-- 🏠 🏠 ¡No dudes en enviarme un 👋 en Discord – haizeeee mi nombre de usuario!
+- 🏠 ¡No dudes en enviarme un **👋** en Discord - [haizeeee]https://discord.gg/6t2aeVTr mi nombre de usuario!
 <!--Intro end-->
 
 
@@ -122,6 +122,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
+Credit: [haizeeee](https://github.com/haizeeee)
 
-Last Edited on: 29/4/2023
