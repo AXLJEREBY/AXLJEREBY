@@ -9,7 +9,7 @@
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
 🎓 &nbsp;Actualmente estoy estudiando Ingenieria de Sistemas en la Universidad Peruana Union.\
 🌱 &nbsp;Estoy en camino de aprender más sobre Inteligencia Artificial, Diseño de Sistemas y Arquitectura de Nube.\
-✍️ &nbsp;En mi tiempo libre, me dedico al diseño gráfico y a la redacción de blogs como pasatiempos y actividades secundarias.\
+✍️ &nbsp;En mi tiempo libre, me dedico aprender nuevas tecnicas y a la infraestructura sistematica.\
 💬 &nbsp;No dude en comunicarse conmigo para realizar consultoría y voluntariado pro bono, o simplemente para tener una discusión interesante..\
 ✉️ &nbsp;¡Puedes enviarme un correo electrónico a axlcamaco@upeu.edu.pe! Intentaré responder tan pronto como pueda.\
 
