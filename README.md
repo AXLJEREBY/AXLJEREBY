@@ -50,7 +50,7 @@
 <p align="center">
 <a href="https://beacons.ai/aiori"><img src="https://img.shields.io/badge/-aio.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/axl-jereby-996b10186/"><img src="https://img.shields.io/badge/-Axl%20camaco%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/-axlcamaco@upeu.edu.pe-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/axlhaisecf"><img src="https://img.shields.io/badge/-@Aio-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.pinterest.com.mx/HaiseeeIO/"><img src="https://img.shields.io/badge/-@Aio-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
