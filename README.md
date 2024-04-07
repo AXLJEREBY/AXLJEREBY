@@ -6,12 +6,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos..\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
+🎓 &nbsp;Actualmente estoy estudiando Ciencias de la Computación y Matemáticas en la Universidad de Massachusetts Amherst.\
+🌱 &nbsp;Estoy en camino de aprender más sobre Inteligencia Artificial, Diseño de Sistemas y Arquitectura de Nube.\
+✍️ &nbsp;En mi tiempo libre, me dedico al diseño gráfico y a la redacción de blogs como pasatiempos y actividades secundarias.\
+💬 &nbsp;No dude en comunicarse conmigo para realizar consultoría y voluntariado pro bono, o simplemente para tener una discusión interesante..\
+✉️ &nbsp;¡Puedes enviarme un correo electrónico a avsingh@umass.edu! Intentaré responder tan pronto como pueda.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
