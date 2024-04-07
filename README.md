@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://ibb.co/pKZ1yB4)
+![Aditya Vikram Singh Banner](https://github.com/AXLJEREBY/imagen/blob/main/aIO%20dEVS.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
